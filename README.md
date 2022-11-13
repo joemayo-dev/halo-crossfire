@@ -1,5 +1,5 @@
 # Crossfire
-A remake of the Half-Life maps [Crossfire](https://combineoverwiki.net/wiki/Crossfire_(multiplayer_map)) in Halo Infinite Forge
+A remake of the Half-Life map [Crossfire](https://combineoverwiki.net/wiki/Crossfire_(multiplayer_map)) in Halo Infinite Forge
 
 # Progress
 - [X] Learn Forge :)
