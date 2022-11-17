@@ -6,7 +6,7 @@ A remake of the Half-Life map [Crossfire](https://combineoverwiki.net/wiki/Cross
 - [ ] Block out map
 - [ ] Setup game play
 - [ ] Publish
-- [ ] Script: Airstrike    
+- [X] Script: Airstrike    
 - [ ] Script: [Long jump module](https://combineoverwiki.net/wiki/Long_Jump_Module)
 - [ ] Art map
 
