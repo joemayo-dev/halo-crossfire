@@ -5,8 +5,10 @@ A remake of the Half-Life map [Crossfire](https://combineoverwiki.net/wiki/Cross
 - [X] Learn Forge :)
 - [X] Block out map
 - [X] Setup game play
-- [X] Publish
 - [X] Script: Airstrike    
+- [X] Script: Health/Shield Packs
+- [X] Script: Health/Shield Chargers
+- [X] Publish
 - [ ] Play test
 - [ ] Optimize
 - [ ] Lighting
