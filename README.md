@@ -9,8 +9,8 @@ A remake of the Half-Life map [Crossfire](https://combineoverwiki.net/wiki/Cross
 - [X] Script: Health/Shield Packs
 - [X] Script: Health/Shield Chargers
 - [X] Publish
-- [ ] Play test
-- [ ] Optimize
+- [X] Play test
+- [X] Optimize
 - [ ] Lighting
 - [ ] Final Art
 
